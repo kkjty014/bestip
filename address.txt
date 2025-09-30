@@ -1,0 +1,108 @@
+192.9.148.42#US_Oracle
+nrtcfdns.zone.id:443#JP_电信
+92.243.74.3:8443#US_19
+154.83.2.125:2087#PH_CF
+cfxr.eu.org#CF-Business
+118.163.37.32:81#TW-Kaohsiung
+101.32.209.46:4443#HK_1
+icook.hk#HK_2
+158.41.108.37#英国
+[2606:4700::]#IPV6
+193.122.102.79:18161#KR_Oracle_1
+158.180.88.1:34237#KR_Oracle_2
+//160.16.82.82:443#JP_SAKURA
+//23.99.123.12:443#HK_Microsoft
+//20.2.197.140:443#HK_Microsoft_2
+//162.159.209.174#JP_Osaka_1
+//162.159.233.138#JP_Osaka_2
+//162.159.232.84#JP_Osaka_3
+211.228.207.178:12546#KR_KoreaTelecom
+45.67.215.95:443#RU_ZaymerPJSC
+194.76.18.129:443#KZ_Robocash
+//64.49.47.64:443#US_iptelecom
+theo.ns.cloudflare.com:443#FI_5
+154.197.64.240:8443#FI_4
+175.207.220.224:12542#NL_1
+//35.194.246.231:1099#NL_2
+[2606:4700:a9::69df:4984]#CMCC-SJC1
+[2a06:98c1:56::5c7e:43d8]#CMCC-IPV6-2
+[2606:4700:24::2239:ffb]#CMCC-IPV6-4
+kia.ns.cloudflare.com:8443#A
+kia.ns.cloudflare.com:2053#B
+delilah.ns.cloudflare.com:2053#C
+shubhi.ns.cloudflare.com:2053#D
+zara.ns.cloudflare.com:2087#E
+donna.ns.cloudflare.com:2096#F
+dora.ns.cloudflare.com:2087#G
+gina.ns.cloudflare.com:8443#H
+romina.ns.cloudflare.com:443#I
+kyle.ns.cloudflare.com:443#J
+kinsley.ns.cloudflare.com:443#K
+sullivan.ns.cloudflare.com:443#L
+hugh.ns.cloudflare.com:443#M
+surina.ns.cloudflare.com:443#N
+melina.ns.cloudflare.com:443#O
+kaiser.ns.cloudflare.com:443#P
+fred.ns.cloudflare.com:443#Q
+poppy.ns.cloudflare.com:443#R
+ignacio.ns.cloudflare.com:443#S
+kip.ns.cloudflare.com:443#T
+thaddeus.ns.cloudflare.com:443#U
+duke.ns.cloudflare.com:443#V
+damien.ns.cloudflare.com:443#W
+lynn.ns.cloudflare.com:443#X
+pranab.ns.cloudflare.com:443#Y
+theo.ns.cloudflare.com:443#Z
+sage.ns.cloudflare.com:443#AA
+arvind.ns.cloudflare.com:443#AB
+craig.ns.cloudflare.com#AC
+moura.ns.cloudflare.com#AD
+kyree.ns.cloudflare.com#AE
+whatismyipaddress.com#AF
+158.101.76.55:21953#JP-1 (CM)
+198.62.62.203:443#US-1 (CM)
+69.84.182.43:443#US-2 (CM)
+69.84.182.138:443#US-3 (CM)
+198.62.62.228:443#US-4 (CM)
+69.84.182.44:443#US-5 (CM)
+69.84.182.31:443#US-6 (CM)
+198.62.62.243:443#US-7 (CM)
+69.84.182.86:443#US-8 (CM)
+69.84.182.38:443#US-9 (CM)
+104.17.104.243:443#US-10 (CM)
+198.62.62.204:443#US-11 (CM)
+198.62.62.217:443#US-12 (CM)
+198.62.62.53:443#US-13 (CM)
+[2a06:98c1:3101:1d81:394e:c74f:976b:5ed9]:2096#IPV6-1 (Moist_R)
+[2400:cb00:2049:f0:c728:8a68:8ca5:5c13]:2096#IPV6-2 (Moist_R)
+[2606:4700:3034::4416:264c]#CMCC-HKG-IPv6-1
+[2606:4700:3035::276:23b0]#CMCC-HKG-IPv6-2
+[2606:4700:3037::6570:3e9e]#CMCC-HKG-IPv6-3
+[2a06:98c1:56::4957:1df6]#CMCC-HKG-IPv6-4
+[2606:4700:3036::2d1c:7a43]#CMCC-HKG-IPv6-5
+[2a06:98c1:3120::602e:2c55]#CU-LAX-IPv6-1
+[2606:4700:20::3305:7511]#CU-LAX-IPv6-2
+[2606:4700:3030::50e4:3de5]#CU-LAX-IPv6-3
+[2a06:98c1:3108::5844:ff5]#CU-LAX-IPv6-4
+[2606:4700:3110::375d:363a]#CU-LAX-IPv6-5
+[2606:4700:56::7986:4319]#CT-SJC-IPv6-1
+[2606:4700:a9::111c:b31]#CT-SJC-IPv6-2
+[2606:4700:300b::4d6:14ab]#CT-SJC-IPv6-3
+[2606:4700:311c::930:7211]#CT-SJC-IPv6-5
+registry.cyou#Snippets
+154.21.85.170:49998#DMIT-3
+154.17.0.93:2346#DMIT-4
+154.17.10.111:47051#DMIT-6
+154.17.3.60:46443#DMIT-7
+154.17.228.83:58889#DMIT-8
+test.saas.cname.123153.xyz#辣子
+huxley.ns.cloudflare.com#AAA
+nikon.ns.cloudflare.com#AAB
+bowen.ns.cloudflare.com#AAC
+pranab.ns.cloudflare.com#AAD
+steamdb.info#AAE
+www.udemy.com#AAF
+zula.ir#AAG
+dnschecker.org#AAH
+198.62.62.156#US_A1
+198.62.62.4#US_A2
